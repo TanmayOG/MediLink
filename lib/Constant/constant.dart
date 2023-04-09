@@ -9,9 +9,9 @@ const String doc_private_key =
     'de0eb1beaef64d6109902951da2f69a0103aab87afdeb94cdefbca585d2d9fd9';
 
 const String PatientAddress = '0xB72FAA0759E043B80A0F14c705D1db05987723e4';
-const String docAddress = '0xa1750f255587834af5A78Fa69646f317d90b1E25';
+// const String docAddress = '0xa1750f255587834af5A78Fa69646f317d90b1E25';
 
-const String contract_Address = '0xE03f17081bFF24D9C0a7a98886421c7129d485f8';
+const String contract_Address = '0xd9145CCE52D386f254917e481eB44e9943F39138';
 
 const String AddPatientFunction = 'AddPatient';
 String AddDoctorFunction = 'AddDoctor';
